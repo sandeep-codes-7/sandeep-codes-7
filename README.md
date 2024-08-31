@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sandeep-codes-7
+- 👋 Hi, I’m Sandeep kumar
 - 👀 I’m interested in Android development
 - 🌱 I’m currently learning Java(Spring boot)
 - 💞️ I’m looking to collaborate on Android applications
