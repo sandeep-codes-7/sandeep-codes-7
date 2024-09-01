@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sandeep kumar
-- 👀 I’m interested in Android development
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Java(Spring boot)
 - 💞️ I’m looking to collaborate on Android applications
 - 📫 How to reach me: sandeepkarem.online@gmail.com
