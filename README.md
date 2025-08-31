@@ -1,22 +1,29 @@
-## Hi there 👋
+<h1 align=center>
+  Hey there, Sandeep here 😉
+</h1>
+<p align=center> Aspiring Software developer | focused on Backend tech | 🌐 INDIA </p>
 
-<!--
-**sandeep-codes-7/sandeep-codes-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👦🏻 About Me
+- Building scalable backend services.
+- Currently working with Django, MongoDB, Flutter.
+- Strong Understanding and Solving abilities with Java and Python.
+- Building real-time applications.
+- Problem solving abilities.
+- Critical Thinking.
+- Project Planning.
+- Learning DevOPs.
+- A few certifications:
+### ![certificates repo](./certificates)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeep-codes-7&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-codes-7&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeep-codes-7&show_icons=true&theme=dracula" height="150" />
+</p>
+<p align=center>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-codes-7&layout=compact&theme=dracula" height="150" />
 </p>
