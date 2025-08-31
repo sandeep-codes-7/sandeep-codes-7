@@ -15,7 +15,7 @@
 - Project Planning.
 - Learning DevOPs.
 - A few certifications:
-### ![certificates repo](./certificates)
+[Certifications](./)
 
 ---
 
