@@ -15,7 +15,7 @@
 - Project Planning.
 - Learning DevOPs.
 - A few certifications:
-[Certifications](./)
+- [Certifications](https://github.com/sandeep-codes-7/Certifications/)
 
 ---
 
