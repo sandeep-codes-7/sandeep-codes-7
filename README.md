@@ -1,5 +1,3 @@
-**welcome**
-
 <h1 align=center>
   Hey there, Sandeep here 😉
 </h1>
