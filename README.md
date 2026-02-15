@@ -7,13 +7,12 @@
 
 ### 👦🏻 About Me
 - Building scalable backend services.
-- Currently working with Django, MongoDB, FastAPI, SQL, Ollama.
+- Currently working with MongoDB, FastAPI, SQL, Ollama, React, Springboot 🍃
 - Strong Understanding and Solving abilities with Java and Python.
 - Building real-time applications.
 - Problem solving abilities.
 - Critical Thinking.
 - Project Planning.
-- Learning DevOPs.
 - A few certifications:
 - [Certifications](https://github.com/sandeep-codes-7/Certifications/)
 
