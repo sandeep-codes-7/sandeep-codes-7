@@ -1,20 +1,13 @@
 <h1 align=center>
   Hey there, Sandeep here 😉
 </h1>
-<p align=center> Aspiring Software developer | focused on Backend tech | 🌐 INDIA </p>
+<p align=center> Aspiring Software developer | focused on Backend tech and AI engineering | 🌐 INDIA </p>
 
 ---
 
 ### 👦🏻 About Me
 - Building scalable backend services.
-- Currently working with MongoDB, FastAPI, SQL, Ollama, React, Springboot 🍃
-- Strong Understanding and Solving abilities with Java and Python.
-- Building real-time applications.
-- Problem solving abilities.
-- Critical Thinking.
-- Project Planning.
-- A few certifications:
-- [Certifications](https://github.com/sandeep-codes-7/Certifications/)
+- Building AI services(RAG systems, AI agents, etc..)
 
 ---
 
